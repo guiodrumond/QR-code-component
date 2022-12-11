@@ -21,6 +21,10 @@ body {
     padding: 0;
 }
 
+h1 {
+    display: none;
+}
+
 img {
     width: 288px;
     border-radius: 25px;
